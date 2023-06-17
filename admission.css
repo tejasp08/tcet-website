@@ -1,0 +1,32 @@
+.logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.navb{
+    text-align: center;
+    font-size: larger;
+    
+}
+.navbar1{
+    padding: 1% 1.5%;
+    font-weight: 700;
+}
+#navbar{
+    background-color: lightblue;
+    margin: 0.7rem 0rem 0.7rem;
+    
+}
+
+table, th, td {
+    border: 3px solid white;
+    border-collapse: collapse;
+  }
+  th{
+    background-color: #FCF3CF;
+  }
+  td{
+    background-color: #D6EAF8;
+    text-align: center;
+  }
